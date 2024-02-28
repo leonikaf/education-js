@@ -4,8 +4,4 @@
 если у объекта нет свойств, иначе false. */
 
 
-function isEmpty(obj) {
-    for (key in obj);
-}
-
 console.log(isEmpty);
